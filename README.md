@@ -1,4 +1,4 @@
-### <div align="center">I'm Joshua, a student at UC Berkeley 🎒 studying Economics and Data Science 📈</div>  
+### <div align="center">I'm Joshua, a masters student at UCLA 🎒 studying Quantitative Economics 📈</div>  
   
 
 - 🔭 I’m currently working on gaining experience through simple side projects  
@@ -10,7 +10,7 @@
 - ❓ Ask me about... actually, I'm the one asking questions (I just started to journey!)  
   
 
-- ⚡ Fun fact: I changed my major during my sophomore year - I used to study Global Studies  
+- ⚡ Fun fact: I changed my major during my sophomore year of undergrad - I used to study Global Studies  
   
 
 <br/>  
